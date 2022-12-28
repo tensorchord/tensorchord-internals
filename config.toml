@@ -1,6 +1,7 @@
 baseURL = 'https://internals.tensorchord.ai/'
 languageCode = 'en-us'
 title = 'TensorChord Internals'
+theme = 'hugo-book'
 
 # enable 'last modified by' date and git author
 enableGitInfo = true
