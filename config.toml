@@ -11,14 +11,24 @@ disableKinds = ['taxonomy', 'taxonomyTerm']
 
 [menu]
 [[menu.after]]
+name = "envd"
+url = "https://envd.tensorchord.ai"
+weight = 10
+
+[[menu.after]]
 name = "GitHub"
 url = "https://github.com/tensorchord"
-weight = 10
+weight = 11
 
 [[menu.after]]
 name = "Discord"
 url = "https://discord.gg/KqswhpVgdU"
-weight = 20
+weight = 12
+
+[[menu.after]]
+name = "Twitter"
+url = "https://twitter.com/TensorChord"
+weight = 13
 
 [params]
 BookTheme = 'auto'
