@@ -1,3 +1,5 @@
+.DEFAULT_GOAL := dev
+
 hugo-install:
 	go install -tags extended github.com/gohugoio/hugo@latest
 
@@ -6,3 +8,6 @@ update-theme:
 
 dev: hugo-install
 	hugo server --minify --theme hugo-book
+
+clean:
+	@-rm -rf public
