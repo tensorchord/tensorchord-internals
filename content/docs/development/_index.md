@@ -1,6 +1,7 @@
 ---
 title: "Development"
-weight: 1
+bookFlatSection: true
+weight: 2
 ---
 
 # Prepare your development environement
