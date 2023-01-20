@@ -5,7 +5,9 @@ weight: 3
 
 # Tea Hour
 
-TensorChord Tea Hour is a technical sharing series every four weeks. On the last Friday of each round, we will share some topics about machine learning, container, orchestration, or something related. Feel free to subscribe to our [Tea Hour calendar](https://calendar.google.com/calendar/u/0?cid=c2FwYmU3NWtlNm0xbHVpbWVsa2k4djZsN29AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
+TensorChord Tea Hour is a technical sharing series every four weeks. On the last Friday of each round, we will share some topics about machine learning, container, orchestration, or something related. Feel free to subscribe to our Tea Hour calendar.
+
+{{< button href="https://calendar.google.com/calendar/u/0?cid=c2FwYmU3NWtlNm0xbHVpbWVsa2k4djZsN29AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ" >}}Subscribe Google Calendar{{< /button >}}
 
 ## Sharing
 
